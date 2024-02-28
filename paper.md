@@ -4,6 +4,7 @@ Aicraft measurements of biomass burning aerosols over West Africa
 # Author
 Eman Al Ruqeishi
 2nd author
+£rd author
 # Introduction
 dckcdklc We present aircraft measurements of BBOA over West Africa
 
