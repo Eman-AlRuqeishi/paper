@@ -22,3 +22,8 @@ Simulation part
 #Simulation
 This is the simulation part
 >>>>>>> simulation
+
+
+# Results
+The simulations indicate that coagulation is the dominant growth
+mechanism for these particles.
