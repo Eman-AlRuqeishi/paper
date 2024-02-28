@@ -23,3 +23,16 @@ Simulation part
 #Simulation
 This is the simulation part
 >>>>>>> simulation
+
+
+# Results
+The simulations indicate that coagulation is the dominant growth
+mechanism for these particles.
+
+
+# Figures
+Figures go in their own section in a draft paper.
+
+# Conclusions
+We have made fantastic insight into the BBOA aging process. 
+Nonetheless, questions remain unanswered, so we should get some more funding.
